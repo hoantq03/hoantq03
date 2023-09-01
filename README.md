@@ -94,7 +94,8 @@
 </h2>
 <a href='https://www.linkedin.com/in/hoan-tran-quoc-1635a4255/'>
     <img width='32px' align='center'
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a>
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />          </a>
+        
 <a href='https://www.facebook.com/quochoan.tran.96995'>
     <img width='32px' align='center'
         src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" /></a>
