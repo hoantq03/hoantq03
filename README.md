@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github"
     src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a backed engineer
+- 🔭 I’m currently working as a backend engineer
 
 - 🌱 I’m familiar with Typescript ( Express/ NestJS)
 
