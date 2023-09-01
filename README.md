@@ -1,8 +1,3 @@
-<p align="center">
-
-    <img width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-</p>
-
 <h1> Hello Buddy
     < Developers />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 </h1>
